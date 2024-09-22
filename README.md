@@ -38,6 +38,7 @@ Set the server name, Provide your ip address and set the hide template warning t
 `$config->custom->appearance['hide_template_warning'] = true;`
 
 <h3>Final Result</h3>
+
 ![image](https://github.com/user-attachments/assets/b71c3515-423b-42ea-8903-eec4ffa1c71b)
 
 # OpenLDAP-Server Set By Muflih/Shidou
