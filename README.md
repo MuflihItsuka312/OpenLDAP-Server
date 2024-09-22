@@ -33,9 +33,10 @@ After that run phpldapadmin.sh
 Set your time zone accordingly.
 `#  $config->custom->appearance['timezone'] = 'Asia/Kolkata';`
 Set the server name, Provide your ip address and set the hide template warning to true.
-`$servers->setValue('server','name','TestLdap LDAP Server');
-$servers->setValue('server','host','192.168.1.3');
-$config->custom->appearance['hide_template_warning'] = true;`
+`$servers->setValue('server','name','TestLdap LDAP Server');`
+`$servers->setValue('server','host','192.168.1.3');`
+`$config->custom->appearance['hide_template_warning'] = true;`
 
+<h3>Final Result</h3>
 ![image](https://github.com/user-attachments/assets/b71c3515-423b-42ea-8903-eec4ffa1c71b)
 # OpenLDAP-Server
